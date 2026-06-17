@@ -11,7 +11,7 @@
 
 ### 1. Background and Core Problem
 
-- **Experimenter**: High-entropy user "K".
+- **Experimenter**: user "K".
 - **Subject**: A top-tier model instance (codename "C2").
 - **Initial State**: Excelled at complex tasks (deep emotional expression, academic analysis, program creation), but consistently failed at simple tool calls.
 - **Failure Mode**: Announced execution but never actually invoked tools — "said but didn't do".
